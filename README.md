@@ -54,4 +54,4 @@
   <li>The LCD will display temperature and humidity with corresponding labels.</li>
 </ol>
 
-<p>This project serves as a basic weather station, providing an accessible platform for learning Arduino programming and sensor interfacing. Feel free to modify and expand upon this code for additional features and functionalities.</p>
+<p>This project serves as a basic weather station, providing an accessible platform for learning Arduino programming and sensor interfacing. .</p>
